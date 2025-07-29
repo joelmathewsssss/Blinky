@@ -10,7 +10,7 @@ Total: 11 Hrs
 
 07/19/25:
 1 Hour, 
-Thought about hardware projects that would actually benefit my everday light all day and realized as I was in bed, that I wished I could turn off my favourite desk lamp remotely. I then realized I had a voice actived USB LED that I dont use. I realized that this must be my project.
+Thought about hardware projects that would actually benefit my everyday life all day and realized as I was in bed, that I wished I could turn off my favourite desk lamp remotely. I then realized I had a voice active USB LED that I dont use. I realized that this must be my project.
 
 
 7/21/25
@@ -19,8 +19,9 @@ Researching how I can do this, what parts will I need, if I can do this with my 
 
 7/24/25
 4 Hours,
-I spent time drawing up a wiring diagram with my components and rethinking the logic I would use. I originally thought that I can solder directly from my LED to Pico to read if the LED is on, but I tested it with my multimeter I bought for this project and it seems that the LED pins on the USB Voice Module don't have eneough of a drop in voltage to regester on the Pico, so I'll need to revise my wiring.
+I spent time drawing up a wiring diagram with my components and rethinking the logic I would use. I originally thought that I can solder directly from my LED to Pico to read if the LED is on, but I tested it with my multimeter I bought for this project and it seems that the LED pins on the USB Voice Module don't have enough of a drop in voltage to register on the Pico, so I'll need to revise my wiring.
 
 7/28/25
 4 Hours,
-Thought about how to get around the problem and realized I could use a more robust system, using a photo resistor instead. The photo resistor will read if the LED is on or off. I updated my diagram for this change and wrote the micro python code that I'll run on my Pico. I also designed a sleeve to hold my photo resistor to the LED on fusoin 360.
+Thought about how to get around the problem and realized I could use a more robust system, using a photo resistor instead. The photo resistor will read if the LED is on or off. I updated my diagram for this change and wrote the micro python code that I'll run on my Pico. I also designed a sleeve to hold my photo resistor to the LED on fusion 360.
+
