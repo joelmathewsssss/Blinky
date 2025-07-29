@@ -32,4 +32,5 @@ I spent time drawing up a wiring diagram with my components and rethinking the l
 Thought about how to get around the problem and realized I could use a more robust system, using a photo resistor instead. The photo resistor will read if the LED is on or off. I updated my diagram for this change and wrote the micro python code that I'll run on my Pico. I also designed a sleeve to hold my photo resistor to the LED on fusion 360.
 ![Note Jul 26, 2025](https://github.com/user-attachments/assets/a65ddc37-1bd0-4cfb-9939-1c95062fc962)
 <img width="549" height="746" alt="image" src="https://github.com/user-attachments/assets/308fd26f-9366-4699-aba9-e5a6ffdee62d" />
+<img width="897" height="767" alt="image" src="https://github.com/user-attachments/assets/b5cb9b0d-6f52-4fad-acfc-d1704b1e430d" />
 
