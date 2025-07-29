@@ -15,8 +15,12 @@ Thought about hardware projects that would actually benefit my everday light all
 
 7/21/25
 2 Hours,
-Researching how I can do this, what parts will I need, if I can do this with my Pico. Found that I can use a MOSFET transistor connecting to the negative wire of the lamp
+Researching how I can do this, what parts will I need, if I can do this with my Pico. Found that I can use a MOSFET transistor (IRF3708) connecting to the negative wire of the lamp.
 
 7/24/25
 4 Hours,
-I spent time drawing up a wiring diagram with my components and rethinking the logic I would use. I originally thought that I can solder directly from my LED to Pico to read if the LED is on, but 
+I spent time drawing up a wiring diagram with my components and rethinking the logic I would use. I originally thought that I can solder directly from my LED to Pico to read if the LED is on, but I tested it with my multimeter I bought for this project and it seems that the LED pins on the USB Voice Module don't have eneough of a drop in voltage to regester on the Pico, so I'll need to revise my wiring.
+
+7/28/25
+4 Hours,
+Thought about how to get around the problem and realized I could use a more robust system, using a photo resistor instead. The photo resistor will read if the LED is on or off. I updated my diagram for this change and wrote the micro python code that I'll run on my Pico. I also designed a sleeve to hold my photo resistor to the LED on fusoin 360.
