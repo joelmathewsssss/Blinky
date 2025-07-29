@@ -33,4 +33,5 @@ Thought about how to get around the problem and realized I could use a more robu
 ![Note Jul 26, 2025](https://github.com/user-attachments/assets/a65ddc37-1bd0-4cfb-9939-1c95062fc962)
 <img width="549" height="746" alt="image" src="https://github.com/user-attachments/assets/308fd26f-9366-4699-aba9-e5a6ffdee62d" />
 <img width="897" height="767" alt="image" src="https://github.com/user-attachments/assets/b5cb9b0d-6f52-4fad-acfc-d1704b1e430d" />
+<img width="781" height="716" alt="image" src="https://github.com/user-attachments/assets/6679ea7d-5d80-402f-96e9-e18baec5d03c" />
 
