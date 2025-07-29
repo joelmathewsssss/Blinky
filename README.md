@@ -1,2 +1,16 @@
 # Blinky
-Voice Activated Desk Lamp
+Voice Activated Desk Lamp.
+Have you every gone to bed after a long day of homework and realized your desk lamp is on? Well, me too. After one night of this, I needed to change something. Now, with this project, I can command my favourite desk lamp to turn off by saying "Turn off" or "Light off". Saving me the walk to flip a switch.
+![Note Jul 26, 2025](https://github.com/user-attachments/assets/8bbc0f73-ee57-4e71-90c3-74e642664c1e)
+
+<img width="549" height="746" alt="image" src="https://github.com/user-attachments/assets/aaf91004-faa7-44be-b8ca-349cf2fe9512" />
+
+<img width="781" height="716" alt="image" src="https://github.com/user-attachments/assets/1ebd8891-08ef-4720-b3eb-e9cc56dd97c5" />
+
+| Qty | Item                           | Description/Part #                            | Category         | Link                                                                                                                                                                                                                                                                    |
+| --- | ------------------------------ | --------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Orpheus Pi Pico                | RP2040 board                                  | Core Electronics | [https://orpheuspico.hackclub.com/](https://orpheuspico.hackclub.com/)                                                                                                                                                                                                  |
+| 1   | Tech 1 USB Voice‑Activated LED | HR‑202+719 V2.0 (you have)                    | Core Electronics | [https://www.amazon.ca/Tech1-703148-Intelligent-Voice-Light/dp/B0DHSTPTXV](https://www.amazon.ca/Tech1-703148-Intelligent-Voice-Light/dp/B0DHSTPTXV)                                                                                                                    |
+| 1   |  7V Lamp                       | IKEA Jansjö clip‑on lamp + adapter (you have) | Core Electronics | [https://www.amazon.co.jp/-/en/Ikea-JANSJO-Wall-Clip-Spotlight/dp/B01IDI12FM](https://www.amazon.co.jp/-/en/Ikea-JANSJO-Wall-Clip-Spotlight/dp/B01IDI12FM)                                                                                                              |
+| 1   | Logic‑Level N‑Channel MOSFET   | IRF3708                                       | Core Electronics | [https://www.snapeda.com/parts/PDV-P2002/Advanced%20Photonix/view-part/?welcome=home\&ref=search\&t=photo+resistor\&ab\_test\_case=b#](https://www.snapeda.com/parts/PDV-P2002/Advanced%20Photonix/view-part/?welcome=home&ref=search&t=photo+resistor&ab_test_case=b#) |
+| 1   | LDR (Photoresistor)            | (GL5528) CdS cell                             | LDR Sensing      |                                                                                                                                                                                                                                                                         |
