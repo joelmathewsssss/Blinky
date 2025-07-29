@@ -28,8 +28,8 @@ I spent time drawing up a wiring diagram with my components and rethinking the l
 ![IMG_20250729_011208](https://github.com/user-attachments/assets/c97e591d-eb27-4dc1-b74e-456ecee49603)
 
 7/28/25
-4 Hours,
-Thought about how to get around the problem and realized I could use a more robust system, using a photo resistor instead. The photo resistor will read if the LED is on or off. I updated my diagram for this change and wrote the micro python code that I'll run on my Pico. I also designed a sleeve to hold my photo resistor to the LED on fusion 360.
+6 Hours,
+Thought about how to get around the problem and realized I could use a more robust system, using a photo resistor instead. The photo resistor will read if the LED is on or off. I updated my diagram for this change and wrote the micro python code that I'll run on my Pico. I also designed a sleeve to hold my photo resistor to the LED on fusion 360. ALso made full circuit assembly in fusion.
 ![Note Jul 26, 2025](https://github.com/user-attachments/assets/a65ddc37-1bd0-4cfb-9939-1c95062fc962)
 <img width="549" height="746" alt="image" src="https://github.com/user-attachments/assets/308fd26f-9366-4699-aba9-e5a6ffdee62d" />
 <img width="897" height="767" alt="image" src="https://github.com/user-attachments/assets/b5cb9b0d-6f52-4fad-acfc-d1704b1e430d" />
