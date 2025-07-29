@@ -1,0 +1,22 @@
+---
+title: Blinky
+author: Joel Mathews
+description: Voice Actived Desk Lamp
+created_at: 2025-07-19
+---
+
+Total: 11 Hrs
+
+
+07/19/25:
+1 Hour, 
+Thought about hardware projects that would actually benefit my everday light all day and realized as I was in bed, that I wished I could turn off my favourite desk lamp remotely. I then realized I had a voice actived USB LED that I dont use. I realized that this must be my project.
+
+
+7/21/25
+2 Hours,
+Researching how I can do this, what parts will I need, if I can do this with my Pico. Found that I can use a MOSFET transistor connecting to the negative wire of the lamp
+
+7/24/25
+4 Hours,
+I spent time drawing up a wiring diagram with my components and rethinking the logic I would use. I originally thought that I can solder directly from my LED to Pico to read if the LED is on, but 
