@@ -1,4 +1,3 @@
-```csv
 Qty,Item,Description/Part #,Category,Link,Cost (USD)
 1,Orpheus Pi Pico,RP2040 board,Core Electronics,https://orpheuspico.hackclub.com/,4.00
 1,Tech 1 USB Voice-Activated LED Module,HR-202+719 V2.0,Core Electronics,https://www.amazon.ca/Tech1-703148-Intelligent-Voice-Light/dp/B0DHSTPTXV,2.50
@@ -11,4 +10,3 @@ Qty,Item,Description/Part #,Category,Link,Cost (USD)
 1,"Soldering Iron + Solder","25–40 W, rosin core",Tools & Miscellaneous,,20.00
 1,Multimeter,"Digital, continuity + DC volts",Tools & Miscellaneous,https://www.canadiantire.ca/en/pdp/mastercraft-7-function-19-range-pocket-digital-multimeter-0520060p.html,15.00
 1,Heat-shrink tubing assorted,Assorted sizes,Tools & Miscellaneous,,5.00
-```
